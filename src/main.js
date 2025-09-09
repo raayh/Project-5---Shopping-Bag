@@ -1,3 +1,4 @@
+// Esse arquivo configura a aplicação e monta o componente principal dentro do HTML
 import { createApp } from 'vue'
 import App from './App.vue'
 import router from './router'
